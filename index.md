@@ -370,7 +370,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
----
+<hr/>
 
 These additional programs are optional but are generally useful.  
 
