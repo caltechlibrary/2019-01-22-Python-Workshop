@@ -370,6 +370,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
+---
+
+These additional programs are optional but are generally useful.  
+
 <div id="shell"> {% comment %} Start of 'shell' section. {% endcomment %}
   <h3>The Bash Shell</h3>
 
