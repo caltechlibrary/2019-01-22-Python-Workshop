@@ -277,6 +277,14 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+<h3>Data Files</h3>
+
+Download the following data files and save them somewhere where you can find them easily (like your Desktop).
+
+<a href="https://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip">python-novice-inflammation-data.zip</a>
+<a href="https://ndownloader.figshare.com/files/2292172">surveys.csv</a>
+<a href="https://datacarpentry.org/python-ecology-lesson/data/species.csv">species.csv</a>
+
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
            the workshop will teach Python using something other than
            the Jupyter notebook.
@@ -370,9 +378,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
-<hr/>
+<hr><hr/>
 
-These additional programs are optional but are generally useful.  
+We won't use these programs much in this workshop, but they are useful to have installed.  
 
 <div id="shell"> {% comment %} Start of 'shell' section. {% endcomment %}
   <h3>The Bash Shell</h3>
