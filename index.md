@@ -324,6 +324,8 @@ Download the following data files and save them somewhere where you can find the
         <li>Open <a href="https://www.anaconda.com/download/#windows">https://www.anaconda.com/download/#windows</a> with your web browser.</li>
         <li>Download the Python 3 installer for Windows.</li>
         <li>Install Python 3 using all of the defaults for installation <em>except</em> make sure to check <strong>Make Anaconda the default Python</strong>.</li>
+	<li> Open Anaconda Prompt (Start/Anaconda/Anaconda Prompt) </li>
+	<li> Type 'conda install -c conda-forge plotnine'.  Hit enter </li>
       </ol>
     </div>
     <div class="col-md-4">
@@ -333,6 +335,8 @@ Download the following data files and save them somewhere where you can find the
         <li>Open <a href="https://www.anaconda.com/download/#macos">https://www.anaconda.com/download/#macos</a> with your web browser.</li>
         <li>Download the Python 3 installer for OS X.</li>
         <li>Install Python 3 using all of the defaults for installation.</li>
+	      <li> Open Terminal (Applications/Utilities/Terminal)</li>
+	      <li> Type 'conda install -c conda-forge plotnine'.  Hit enter </li>
       </ol>
     </div>
     <div class="col-md-4">
@@ -363,6 +367,7 @@ Download the following data files and save them somewhere where you can find the
           press enter to prepend Anaconda to your <code>PATH</code>
           (this makes the Anaconda distribution the default Python).
         </li>
+	<li> Type 'conda install -c conda-forge plotnine'.  Hit enter </li>
         <li>
           Close the terminal window.
         </li>
