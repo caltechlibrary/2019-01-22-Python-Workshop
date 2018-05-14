@@ -46,7 +46,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This workshop is customized for the Caltech Postdoc association to focus only on Python.  While it uses content from the Software and Data Carpentry curriculum, it is not an official workshop because it does not include instruction on the command line and version control. Please fill out the <a href=https://docs.google.com/forms/d/1pA-i8UeIY0H7iCATNgllkygusPajrZvhNGqPhUzIgyI> post-workshop survey</a> before you leave. </h4>
+<h4>This workshop is customized for the Caltech Postdoc association to focus only on Python.  While it uses content from the Software and Data Carpentry curriculum, it is not an official workshop because it does not include instruction on the command line and version control. Please fill out the <a href=https://goo.gl/forms/oDyyN8logGspGxAW2> post-workshop survey</a> before you leave. </h4>
 
 <h2 id="general">General Information</h2>
 
