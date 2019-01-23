@@ -244,6 +244,12 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <hr/>
 
+<h3>Notebooks</h3>
+
+We used Jupyter notebooks during the workshop to collect our code.  Here are the instructor notebooks from the end of each day:
+
+<a href="/files/day1.ipnb">Day 1</a>
+
 {% comment %}
   SETUP
 
