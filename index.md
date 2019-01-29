@@ -250,8 +250,9 @@ We used Jupyter notebooks during the workshop to collect our code.  Here are the
 
 <a href="/2019-01-22-Python-Workshop/files/day1.ipynb">Day 1</a>
 <a href="/2019-01-22-Python-Workshop/files/day2.ipynb">Day 2</a>
-<a href="/2019-01-22-Python-Workshop/files/Output_Script.ipynb">Day 3 - Python Script Notebook</a>
-<a href="/2019-01-22-Python-Workshop/files/Output_Script.py">Day 3 - Python Script</a>
+<a href="/2019-01-22-Python-Workshop/files/Output_Script.ipynb">Day 3: Python Script Notebook</a>
+<a href="/2019-01-22-Python-Workshop/files/Output_Script.py">Day 3: Python Script</a>
+<a href="/2019-01-22-Python-Workshop/files/Day3_b.py">Day 3: Notebook Part 2</a>
 
 {% comment %}
   SETUP
