@@ -294,6 +294,7 @@ Download the following data files and save them somewhere where you can find the
 <a href="https://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip">python-novice-inflammation-data.zip</a>
 <a href="https://ndownloader.figshare.com/files/2292172">surveys.csv</a>
 <a href="https://datacarpentry.org/python-ecology-lesson/data/species.csv">species.csv</a>
+<a href="https://ndownloader.figshare.com/files/3299474">plots.csv</a>
 
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
            the workshop will teach Python using something other than
